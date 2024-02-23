@@ -1,0 +1,9 @@
+/*Styling using only type selector and general terms as attribute descriptions for the external styling method */
+
+    div {
+        color: white; 
+        background-color:red;
+        text-align: center;
+        font-size: 32px;
+        font-weight: bold;
+    }

@@ -1,0 +1,18 @@
+/* Choosing which selector to use*/
+
+.odd-number {
+    background-color: #E58CAA;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#blue {
+    color: rgb(27, 76, 153);
+    font-size: 32px;
+}
+.odd-number.added-class {
+    font-size: 24px;
+}
+#light-green-background {
+    background-color: #AED581;
+    font-size: 24px;
+    font-weight: 700;
+}
